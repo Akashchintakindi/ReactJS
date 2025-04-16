@@ -1,0 +1,15 @@
+React JS
+
+https://www.tataworld.com/article/inside/Tata-Indian-Premier-League-2025
+how to create react app
+
+there are 2 ways
+
+1.using the npx
+npx create-react-app <project_name>
+npm package runner
+
+
+2.using the npm
+npm install create-react-app -g
+create-react-app<project_name>
